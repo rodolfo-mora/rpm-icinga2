@@ -1,4 +1,6 @@
 # Icinga 2 | (c) 2012 Icinga GmbH | GPLv2+
+#
+#
 
 %define revision 1
 
